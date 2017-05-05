@@ -1,4 +1,4 @@
-#FaunaDB Examples
+# FaunaDB Examples
 
 These are the examples from the [FaunaDB tutorials](https://fauna.com/tutorials/crud) made into an project.
 
